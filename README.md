@@ -1,1 +1,1 @@
-# projeto para busca de clima para qualquer país ou cidade do mundo.
+Procurador de clima de qualquer cidade/país do mundo
