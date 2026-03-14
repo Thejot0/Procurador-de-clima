@@ -1,1 +1,1 @@
-## PROJETO ONDE PODE ACHAR O CLIMA ATUA DE QAULQER PAÍS DO MUNDO
+# projeto para busca de clima para qualquer país ou cidade do mundo.
